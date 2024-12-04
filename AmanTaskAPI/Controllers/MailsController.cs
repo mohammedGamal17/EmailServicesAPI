@@ -23,7 +23,7 @@ namespace AmanTaskAPI.Controllers
         {
             _context = context;
             _receiverRepository = receiverRepository;
-            _messageRepository = messageRepository;
+            _messageRepository = messageRepository; k
         }
         #endregion
 
